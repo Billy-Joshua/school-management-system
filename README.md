@@ -2,7 +2,7 @@
 
 Version: 1.0.0
 
-This repository is a simple school management system built with PHP, MySQL and Bootstrap.
+This repository is a school management system built with PHP, MySQL and Bootstrap.
 
 Quick Start (XAMPP)
 
@@ -70,8 +70,7 @@ Security notes
 
 More resources
 
-- Full tutorial by the original author: https://youtube.com/playlist?list=PL2WFgdVk-usEEEPk5dfgg_fvUeGDM8NWf
-- Author: Elias Abdurrahman (https://github.com/codingWithElias)
+- Author: Billy-joshua (https://github.com/Billy-Joshua)
 
 If you'd like, I can: add a public registration page, update `login.php` to include Registrar Office automatically, or generate and apply a new admin password now. Tell me which one you want me to do next.
 
