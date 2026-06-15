@@ -25,10 +25,6 @@ Default database connection (file: `DB_connection.php`):
 
 Seeded accounts (use these for first login):
 
-- Admin: username `elias` — password `123` (Login As = Admin)
-- Registrar Office: username `james` — password `123` (Login As = Registrar Office)
-- Teacher: username `oliver` — password `123` (Login As = Teacher)
-- Student: username `john` — password `123` (Login As = Student)
 
 If you don't see the Registrar Office option on the login page, add this option to the role `<select>` in `login.php`:
 
