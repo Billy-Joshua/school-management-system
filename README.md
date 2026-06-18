@@ -13,8 +13,7 @@ Quick Start (XAMPP)
 
 Access the app:
 
-- Open: `http://localhost/school-management-system-php/`
-- Login: `http://localhost/school-management-system-php/login.php`
+
 
 Default database connection (file: `DB_connection.php`):
 
