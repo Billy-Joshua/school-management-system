@@ -5,14 +5,6 @@ Version: 1.0.0
 This repository is a school management system built with PHP, MySQL and Bootstrap.
 
 Seeded accounts (use these for first login):
-
-
-If you don't see the Registrar Office option on the login page, add this option to the role `<select>` in `login.php`:
-
-```html
-<option value="4">Registrar Office</option>
-```
-
 How to change the Admin username and password
 
 1. Generate a bcrypt hash for the new password using the local PHP binary:
