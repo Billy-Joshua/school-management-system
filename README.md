@@ -4,12 +4,7 @@ Version: 1.0.0
 
 This repository is a school management system built with PHP, MySQL and Bootstrap.
 
-Quick Start (XAMPP)
 
-- Requirements: XAMPP (Apache + MySQL), a browser.
-- Place the project in your web root (example: `D:/XAMPP/htdocs/school-management-system-php`).
-- Start Apache and MySQL using the XAMPP Control Panel.
-- Import the database file `sms_db.sql` using phpMyAdmin (`http://localhost/phpmyadmin/`) into a database named `sms_db`.
 
 Access the app:
 
